@@ -1,6 +1,6 @@
 spring:
   application:
-    name: UserServiceS
+    name: User-ServiceS
 
 eureka:
   client:
